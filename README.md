@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Dhruv Verma
-<h1>Hi <img src="https://tenor.com/en-GB/view/hand-waving-hand-emoji-gif-14999877618442267107" height="30" width="30">,I'm Dhruv Verma </h1>
+<h1>Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30" width="30">,I'm Dhruv Verma </h1>
 
 
 
