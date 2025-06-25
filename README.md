@@ -1,4 +1,4 @@
-<h3>Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30" width="3 0">,I'm Dhruv Verma </h3>
+<h3>Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30" width="30">,I'm Dhruv Verma </h3>
 
 - 📝 My **[Portfolio](https://dhruvwork.online/)**
 ----
