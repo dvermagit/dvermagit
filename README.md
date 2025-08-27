@@ -4,7 +4,7 @@
 ----
 
 ### 🔗 &nbsp;**Socials**
-<a href="https://x.com/dhruvvermax"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/dvermagit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dhruv-verma-73b2982b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;</a>&nbsp;&nbsp; <a href="https://dhruvwork.online"><img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://x.com/dhruvvermax"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dhruv-verma-73b2982b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;</a>&nbsp;&nbsp; <a href="https://dhruvwork.online"><img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://github.com/dvermagit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
 
 
 <!--
